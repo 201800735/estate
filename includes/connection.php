@@ -6,7 +6,7 @@
     $jsDir = $rootDir . '/js';
     $imageDir = $rootDir . '/images';
 	$siteTitle = "Real Estate Management System";
-	$studName = "Muhydeen Garba";
+	$studName = "MUHYIDEEN GARBA";
 
     //database connection constants
     $pdoConnectionString = 'mysql:host=localhost;dbname=realestate';
